@@ -1,0 +1,1 @@
+[{"name":"Raspberry Pi","specs":{"memory":"2GB","os":"mac OSX","price":"","wifi":true,"ethernet":true},"manufacturer":""},{"name":"DragonBoard","specs":{"memory":"4GB","os":"Linux","price":"$40.00"},"manufacturer":""},{"name":"Arduino","specs":{},"manufacturer":""},{"name":"Intel Joule","specs":{},"manufacturer":""},{"name":"Beaglebone","specs":{},"manufacturer":""}]

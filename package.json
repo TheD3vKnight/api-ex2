@@ -4,8 +4,8 @@
   "description": "Take JSON file devices.json and use",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "dependencies": {
     "express": "^4.16.2",
     "mongodb": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
   }
 }
